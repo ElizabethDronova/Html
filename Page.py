@@ -1,7 +1,7 @@
 from queue import LifoQueue
 import os
 
-way = "c:\\Users\\user\Desktop\Html"
+way = "C:\\Users\\romall\Desktop\Html"
 class Html():
     def __init__(self, code):
         self.code = code
